@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UnitOfWorkApp.Domain.Entities
 {
-    [Table("Region")]
+    [Table("Regions")]
     public class Region
     {
         [Key]

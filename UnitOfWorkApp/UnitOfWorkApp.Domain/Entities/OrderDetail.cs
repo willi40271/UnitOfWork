@@ -5,7 +5,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace UnitOfWorkApp.Domain.Entities
 {
-    [Table("Order Details")]
+    [Table("OrderDetails")]
     public class OrderDetail
     {
         [Key, Column(Order = 1)]
